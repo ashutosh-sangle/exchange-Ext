@@ -1,4 +1,4 @@
-﻿Write-Host "Written by Ashutosh Sangle, visit https://github.com/ashutosh-sangle/exchange-Ext for more scripts" -ForegroundColor Yellow
+﻿Write-Host "Written by Ashutosh Sangle, visit https://github.com/ashutosh-sangle/exchange-Ext for more Exchange scripts" -ForegroundColor Yellow
 ### Written by Ashutosh Sangle https://github.com/ashutosh-sangle/exchange-Ext ###
 ### What it does? ###
 ### It gets the details of all the mailboxes, Their size utilized, item count, Archive Mailbox size utilized and custom attributes ###
